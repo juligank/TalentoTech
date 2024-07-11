@@ -23,7 +23,7 @@ X_test = scaler.transform(X_test)
 mlp_reg = MLPRegressor(hidden_layer_sizes=(100),
                        activation='relu',
                        solver='adam',
-                       max_iter=550,
+                       max_iter=100,
                        random_state=42,
                        verbose=True)
 
