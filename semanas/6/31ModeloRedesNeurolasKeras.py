@@ -24,3 +24,4 @@ model.fit(X, y, epochs=100)
 # Predicción de la salida para un nuevo valor de entrada
 print(model.predict([10.0]))
 
+

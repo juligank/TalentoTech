@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+
+
 # Definir las señales de entrada
 x = np.array([1, 2, 3, 4, 5])
 h = np.array([-1, 5, 3, -2, -1])
@@ -31,3 +34,14 @@ plt.ylabel('Amplitud')
 
 plt.tight_layout()
 plt.show()
+
+
+#convolucion manual
+
+longitud = (len(x)+len(h)-1)
+print(longitud)
+for elementox in x:
+    for elementoy in y: 
+        print(elementox)
+        
+            

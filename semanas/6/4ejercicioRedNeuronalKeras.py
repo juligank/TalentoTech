@@ -66,3 +66,4 @@ print("\nEvaluar el modelo en el conjunto de prueba:")
 print("Pérdida en prueba:", loss)
 print("RMSE en prueba:", RMSE)
 print("MAPE en prueba:", MAPE)
+

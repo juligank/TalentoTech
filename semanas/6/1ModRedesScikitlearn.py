@@ -48,3 +48,4 @@ print(y_pred)
 accuracy = accuracy_score(y_test, y_pred)
 print("Precisión del modelo:", accuracy)
 
+
