@@ -1,0 +1,82 @@
+Questions
+
+Las siguientes preguntas podrían ser útiles para discutir en clase sobre interoperabilidad e integración en
+las organizaciones:
+
+1. ¿Qué signica exactamente el término "interoperabilidad" en el contexto de las organizaciones y por qué es importante?
+R // interoperabilidad en las organizaciones significa la continua colaboracion (tecnologica, administrativa, operativa) entre 2 o mas organiozaciones alineados por un objetivo en comun 
+para lograr tener beneficios mutuos.
+
+2. ¿Cuáles son los benecios clave de lograr una alta interoperabilidad entre los sistemas y aplicaciones dentro de una organización?
+R // los beneficios clave de lograr una alta interoperabilidad es que el objetivo final estara mas cerca de cumplirse como una realidad tangible,
+    los procesos brillan por su eficiencia, reducen drasticamente los reprocesos, las organizaciones pueden mas facilmnete crecer en cualquier ambito
+
+3. ¿Cuáles son los desafíos más comunes que enfrentan las organizaciones al intentar lograr la interoperabilidad entre diferentes sistemas y plataformas?
+R // los desafios mas comunes que enfrenta las organizaciones al intentar lograr interoiperabilidad entre diferentes sistemas y plataformas son:
+    Realizar una valoracion a alto nivel cercano a la realidad que mida el  costo, calidad y tiempo empleado para tal fin.
+    que exista un liderazgo a nivel de comunicacion por un ente independiente para que se logren identificar las necesidades de informacion y quien puede suplirlas.
+    que las procesos basicos como enviar un correo, citar una reunion, y desarrollar una reunion cumplan con una metodologia eficiente y de excelnete calidad.
+    que los encargados de dichos sistemas o plataformas tengan el conocimiento fresco acerca de las funcionalidaddes y como llegar a realizar modificaciones 
+    es decir que la trsnferencia de conocimineto entre profesionales sea facil.
+    contar con personal calificado para las tareas asignadas.
+
+4. ¿Cómo pueden las organizaciones abordar los problemas de interoperabilidad cuando tienen sistemas heredados que no son compatibles con las últimas tecnologías?
+R// las organizaciones abordar los problemas de interoperabilidad con sistemas heredados que no son compatibles con las últimas tecnologías?
+   asi:
+      * asesorarse de arquitectos de software y datos.
+      * exponiendo apis de web services, archivos, tablas de bases de datos,  integrando los mismos a datawarehouses o datalakes
+      * analizar la estrategia con los genrentes de ti o CTIO u officina de PMO.
+      * ejecutar una estrategia integral.
+      * utilizar siempre estandares y protocolos adecuados
+
+5. ¿Qué papel juegan los estándares y protocolos de comunicación en la interoperabilidad efectiva entre sistemas y aplicaciones?
+R// el papel que juegan los estandares y protocolos de comunicacion en la interoperabilidad efectiva entre sistemas y aplicaciones es crucial
+    en la ejecucion del proyecto y su buen termino.
+
+
+6. ¿Cuáles son algunos ejemplos concretos de cómo la falta de interoperabilidad ha afectado negativamente a las organizaciones en diferentes industrias?
+R// ejemplos concretos de cómo la falta de interoperabilidad.
+    El sistema judicial colombiano sde encuentra desacoplado del sistema de denuncias y policia nacionalo no es eficiente.
+    el sistema de salud no cuenta con un estandar obligatorio para que las diferentes eps, ips y entidades de salud compartan la informacion de historia clinica
+    el sistema de subsidios, pensiones ligado con el sistema que reporta a los fallecidos.
+    los sistemas de seguridad nacional con los sistemas de ventas de productos en tiendas, mercados, sistemas de transporte entre otros.
+
+
+7. ¿Qué estrategias pueden implementar las organizaciones para mejorar la integración de sistemas y datos en toda la empresa?
+R//   Las estrategias para implementar en las  organizaciones son:
+    compartir la politica, publicar y capacitar por medio de comunicacicon preferido parqa que el recurso humano conozca la razon de la misma
+    y el objetivo a perseguir.
+    deaucerdo con vilfredo Pareto identificar en una lista el 80% de los problemas por los que pasa la empresa que se podran resolver una vez sean abordadas 
+    el 20% de la causas.
+    priorizar y aplicar la integracion e interoperabilidad a las principales si no a todas las causas que generan problemas por no contar con integracion de sistemas
+    integrar los sistemas con metodologias, protocolos y personal adecuado.
+
+8. ¿Cuáles son los riesgos potenciales asociados con la falta de integración en las organizaciones y cómo pueden mitigarse?
+R// riesgos potenciales asociados con la falta de integración pueden varias desde el mas leve como:
+   reprocesando informacion, robo de informacion,perdida de cliunetes, hasta el mas grave problemas legales o incluso quedar en banca rota por falta de competitividad.
+   todos los riesgos se pueden mitigar pero realmente deberia resolverse. 
+
+
+9. ¿Cómo afecta la interoperabilidad y la integración a la experiencia del cliente y la capacidad de respuesta de una organización?
+R//Cuando los sistemas no son interoperables el cliente es el principal afectado y su experiencia sera mala usualmente afecta lkas variables de
+   tiempo, satisfaccion, seguridad en cuanto a la integracion de igual forma el cliente es afectado porque no se logra consolidar su informacion por tanbto no existe 
+   eficiencia , productividades, toma de desiciones bien informado, coordinacion, lo que repercute al clinete en la variable tiempo gastado, solcuion correcta del requierimineto realizado por el clinete o 
+   resultado final esperado por el cliente de forma deficiencia o nula.
+
+10. ¿Qué papel desempeñan las tecnologías emergentes como la inteligencia articial y el Internet de las cosas en la mejora de la interoperabilidad y la integración en las organizaciones?
+Estas preguntas pueden servir como punto de partida para una discusión más amplia y profunda sobre los
+desafíos y oportunidades relacionados con la interoperabilidad e integración en el contexto empresarial
+actual.
+
+R// Hoy en dia  apropiarse de las tecnologias emergentes no simplemente significa estar a la vanguardia, tampoco no quedarse atras, realmente significa buscar una ventaja competitiva.
+
+
+
+
+
+
+
+    
+
+
+

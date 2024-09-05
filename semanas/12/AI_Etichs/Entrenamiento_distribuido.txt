@@ -1,0 +1,53 @@
+Questions
+
+1. Entrenamiento distribuido y paralelo en aprendizaje:
+
+¿Cuáles son los beneficios de utilizar el entrenamiento distribuido y paralelo en aprendizaje automático?
+1. R// El benecios de utilizar el entrenamiento distribuido y paralelo en aprendizaje automático es la eficiencia o velocidad de entrenamiento.
+
+¿Qué desafíos podrían surgir al implementar un sistema de entrenamiento distribuido y paralelo?
+ R// Los desafíos que podrían surgir al implementar un sistema de entrenamiento distribuido o en  paralelo son:
+sincronizacion,
+comunicacion entre nodos
+paralelizacion
+
+¿Cómo se pueden mitigar los problemas de comunicación y sincronización entre nodos en un entorno de
+entrenamiento distribuido?
+R// tener un cluster espejo (arquitectura independiente)que pudiera ejecutar el mismo modelo y entrenarlo  podria resolver los problemas de comunicaciones 
+sin embargo la sincronizacion no se podria mitigar deberia funcionar sin excepcion.
+
+2. Población de entrenamiento y validez externa:
+
+¿Por qué es importante que la población de entrenamiento sea representativa de los datos del mundo real?
+R//es importante que la poblacion de entrenamiento  sea representativa de los datos del mundo real para que el modelo puedo generalizar bien es decir que se adapte a casi cualquier tipo de datos de entrada y ejecute la tarea correctamente.
+
+¿Qué estrategias se pueden emplear para garantizar la diversidad y representatividad en la población de entrenamiento?
+R// las estrategias para garantizar la diversidad y representatividad en la población de entrenamiento podria ser utilizar un gran numero de datos de entrenamiento para que el modelo 
+conozca estos escenarios y no caiga en falta de validez externa.
+
+¿Cuál es la relación entre la población de entrenamiento y la validez externa de un modelo de aprendizaje
+automático?
+R//la relación existente entre la población de entrenamiento y la validez externa que en un modelo de aprendizaje automatico es asi:
+falta de validez interna(no muestra representativa)  = modelo no generealiza bien
+
+¿Qué riesgos podrían surgir si la población de entrenamiento no refleja adecuadamente las variaciones del entorno de producción?
+
+R// Los riesgos que podrían surgir si la población de entrenamiento no refleja adecuadamente las variaciones del entorno de producción 
+es que el modelo generalize bien por tanto la respuesta no es optima. 
+
+
+3. Explicabilidad del algoritmo:
+
+¿Por qué es importante que los algoritmos de aprendizaje automático sean explicables?
+R// es importante que los algotimos de aprendizaje automático sean explicables pueda proporcionar razones claras, comprensibles y verificables
+detras de sus predicciones 
+
+¿Qué desafíos enfrentan los modelos de inteligencia artificial en términos de explicabilidad en comparación con los enfoques tradicionales?
+Los modelos de inteligencia artificial enfrentan desafios en términos de explicabilidad en comparación con los enfoques tradicionales?
+debido a que se requere usar un modelo lo mas acertado posible en sus prediciones,
+
+¿Cómo se puede equilibrar la explicabilidad del algoritmo con la complejidad y la precisión de los modelos de aprendizaje automático?
+R//puede equilibrar la explicabilidad del algoritmo con la complejidad y la precisión de los modelos de aprendizaje automático?
+
+¿Cómo se puede equilibrar la explicabilidad del algoritmo con la complejidad y la precisión de los modelos de aprendizaje automático?
+R// basicamnete porque el equilibrio lo presenta cuando el modelo predice con presicion.

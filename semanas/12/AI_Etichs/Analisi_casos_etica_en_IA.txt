@@ -1,0 +1,25 @@
+
+
+¿Pueden compartir algún ejemplo de un caso ético controversial relacionado con  la inteligencia artificial que hayan encontrado
+
+CASO:  IA sesgada
+Fuente:  https://www.unesco.org/es/artificial-intelligence/recommendation-ethics/cases\
+Descripcion: 
+de acuerdo con el Foro Global sobre la Ética de la IA 2024 de casos de recomendaciones eticas de la 
+Ia uno de ellos es que actualmente la IA traslada los "SESGOS DE GENERO" , estereotipos arraigados en nuestra sociedad como resultado
+del procesamiento de macrodatos que son trasladados a los resultados arrojados por la IA presentandose sesgos, dicriminacion entre otros.
+
+un ejemplo de ellos es al realizar una buisqueda en un navegador digitando:
+
+1. "grandes lideres del mundo", encontraras imagenes de muy pocas mujeres y mayormente hombres.
+2. "colegiala", encontraras imagenes de chicas sexualizadas 
+3. "colegial", cencontraras imagenes pero no tiodas sexualizadas.
+estos son ejemplos de sesgos de genero que reproducen prejuicios y discriminacion del mundo real
+
+
+¿Cuáles creen que son las lecciones más importantes que podemos aprender de estos casos para mejorar la ética en el diseño y uso de la IA?
+R// la leccion mas importante es que podemos filtrar o modificar el contenido que respondera la IA en caso de que nuestros variables de entrenaminto para los modelos cuenten con prejuicios o se encuentren sesgados.
+para que la respuesta no contemple en lo posible estos sesgos.
+
+¿Cómo podríamos abordar los sesgos y discriminaciones en los algoritmos de IA para garantizar la equidad y la justicia?
+R// tal como se menciono en este bootcampo se podran analizar el conjunto de datos de entrenamineto y  definir pesos para reducir el sesgo en los modelos de  IA

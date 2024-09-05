@@ -1,0 +1,54 @@
+
+Responsabilidad en el diseño y uso de sistemas de inteligencia artificial:
+
+¿Cuáles son las responsabilidades éticas de los desarrolladores de IA al diseñar sistemas automatizados?
+R// las resposabiklidades eticas, morales, de equidad,  provcacidad, impacto social, medioambiental, 
+trasnparencia minimizando riesgos y maximioizando beneficios para la sociedad.
+
+¿Qué medidas se pueden tomar para garantizar que los sistemas de IA sean éticos y justos en su uso?
+R//las medidas que se pueden tomar para que los sistemas de IA sen eticos y justos es desarrollarlos con resposabilidad a su vez im plemnetar
+politicas para prevenir que sean vulnerados, descifrados con el objetivo de que sigan sus datos siendo confidenciales.
+
+¿Cómo puede una empresa asegurarse de que sus sistemas de IA no generen discriminación o sesgos no deseados?
+R// una empresa puede asegurarse de que sus sistemas no generen sesgos analizando la informacion de entrenamiento y generando mitigacion en caso de encontrarse .evitando que arroje resultados discriminatorios.
+
+
+Protección y seguridad de los datos:
+
+¿Cuáles son los riesgos asociados con la falta de protección de datos en sistemas de IA?
+R// los riesgos asociados con la falta de propteccion de datos en sistemas de Ia son la vulneracion en la privacidad y condifencialidad de losdatos 
+exponiendo exponiendo a filtracion nde informacion sensible que pueda generar repercusiones de todo indole.
+
+¿Qué medidas de seguridad son necesarias para garantizar la privacidad de la información en sistemas de IA?
+R// para garantizar la privacidad de la información en sistemas de IA se pueden usar practicas tales como  cifrado, control de acceso, autenticación, auditorías de seguridad, cumplimiento normativo y otras técnicas para salvaguardar la integridad y confidencialidad de los datos.
+
+¿Cómo puede una empresa responder ante una violación de seguridad de datos en un sistema de IA?
+R// Una empresa responder ante una violación de seguridad de datos en un sistema de IA? con sus expertos en ciberseguridad pero tambien con su reputacion por el incidente
+
+
+
+Equidad y sesgos:
+
+¿Qué tipos de sesgos pueden surgir en sistemas de IA y cómo afectan a diferentes grupos de personas?
+R// los segos pueden ser de tipo genero, edad, raza de forma no intencionada.
+
+¿Cuáles son las mejores prácticas para mitigar los sesgos y garantizar la equidad en los sistemas de IA?
+la mejor preactica es revisar los datos de entrenamiento y validar si se presentaria sesgo en caso de tenerlo se debe mitigar o prevenir estos sesgos
+
+
+¿Deberían existir regulaciones o estándares específicos para abordar los sesgos en la IA?
+R// si, se podrian implementar estandares especificos para validar sesgsos en los modelos
+
+Transparencia:
+
+¿Por qué es importante la transparencia en los sistemas de IA y cómo puede beneciar a los usuarios?
+R//la transparencia es importante por que el usuario final entiende como funciona la IA a nivel general para que no tengan dudas de su transparencia y por ende del resultado arrojado por el sistema de IA
+a su vez se beneficia del la respuesta de la IA.
+
+¿Cuáles son los desafíos de lograr la transparencia en el funcionamiento de los algoritmos de IA?
+R// el desafio es que los creadores de ia publiquen el algoritmo de como funciona su sistema
+
+
+¿Qué estrategias se pueden implementar para mejorar la transparencia en el diseño y uso de la IA?
+R//las estrategias a implemnetar podrias ser la revision de datos de entranemineto a partir de un standard definido. 
+tener el conocimiento en para mitigarlo
