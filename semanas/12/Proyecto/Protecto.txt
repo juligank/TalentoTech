@@ -1,0 +1,41 @@
+Eficiencia de Cocinas en la Nube Apoyado en la IA
+Problema a Resolver: Se requiere generar un modelo para predecir las ventas de un producto en un día determinado. Aunque se han identificado otras áreas para optimizar, como la reducción del tiempo de preparación de alimentos, la experiencia del cliente, la optimización de compras y reducción de desperdicios, la optimización del precio y promociones, la gestión automatizada del inventario, alertas para productos próximos a vencer, ajuste de porciones, recetas dinámicas y control de calidad de alimentos en la preparación (usando OpenCV), por razones de tiempo se trabajará en una sola opción.
+
+Pertinencia: Aunque el negocio de las cocinas en la nube ha existido en el país durante varios años, la adopción de tecnologías avanzadas como la inteligencia artificial (IA) está ganando relevancia. En un sector competitivo, la integración de IA puede elevar los estándares de calidad, mejorar los tiempos de entrega, reducir costos y aportar flexibilidad. Esto no solo ayuda a mantenerse en un mercado exigente, sino también a fomentar el crecimiento y la expansión.
+
+Estado del Arte: Entre los pioneros en cocinas en la nube que integran IA se encuentran:
+
+Reef Technology: Ofrece una plataforma con integración de IA y un ecosistema de productos especializados para restaurantes. Más información aquí.
+Kitopi: Fundada en Dubái en 2018, proporciona una plataforma para la gestión de cocinas en la nube y utiliza el software de Posist, que opera en más de 35 países con un modelo B2B. Más información sobre Posist.
+La pandemia de 2021 aceleró el crecimiento de las cocinas en la nube, aumentando la demanda de servicios de delivery. Startups como Swiggy, fundada en 2014 y presente en 580 ciudades de India, y su competidor Zomato, han apostado por IA generativa para optimizar procesos. Más sobre la IA en Swiggy. Rappi también está explorando el uso de IA para mejorar sus operaciones. Ver más sobre la IA en Rappi.
+
+Ventajas Comparativas: El uso de modelos de IA en plataformas de gestión de cocinas en la nube ofrece una ventaja significativa sobre otros proveedores de software de administración de restaurantes.
+
+Marco Legal y Ético: El proyecto debe cumplir con los siguientes principios:
+
+Protección de Datos: Manejar datos personales según normativas vigentes.
+Transparencia: Hacer comprensibles las decisiones de la IA.
+Responsabilidad Ética: Asumir responsabilidad por decisiones automatizadas.
+Seguridad: Proteger los sistemas contra ataques informáticos.
+Equidad: Evitar sesgos y discriminación en los modelos.
+Impacto Laboral: Asegurar que la automatización no vulnere los derechos laborales.
+Sostenibilidad: Optimizar recursos y reducir desperdicios.
+Cumplimiento Regulatorio: Seguir normativas de higiene y seguridad.
+Posibles Riesgos y Situaciones Externas:
+
+Resistencia del Personal: El equipo de cocina podría no adoptar las nuevas dinámicas propuestas por el software.
+Bajo Volumen de Ventas: La falta de suficientes datos podría afectar la calidad de las métricas necesarias.
+Ciberseguridad: Los sistemas podrían ser vulnerados por ciberataques.
+Integración en Plataformas: Las plataformas de delivery podrían implementar la solución como valor agregado.
+Metodología(s) de Proyectos TI y Cronograma:
+
+Lean Startup: Crear un Producto Mínimo Viable (MVP) y obtener feedback de los clientes para iterar y mejorar el proyecto.
+Scrum: Organizar el desarrollo en sprints cortos y utilizar un tablero Kanban para la gestión y visualización de tareas.
+Agile AI: Desarrollar y ajustar modelos de IA de manera iterativa y ágil.
+MLOps: Gestionar el desarrollo, despliegue y mantenimiento de modelos de IA de manera continua y eficiente.
+Cronograma:
+
+Semana 1: Definición del sprint backlog, alineación del equipo, inicio del desarrollo.
+Semana 2: Continuación del desarrollo, sprint review, presentación del MVP o avance, sprint retrospective.
+Semana 3: Evaluar si el MVP está finalizado, despliegue del piloto (MVP), iniciar pruebas con los clientes, implementar mejoras basadas en el feedback.
+Semana 4: Continuar integrando mejoras basadas en el feedback, desplegar en desarrollo, iterar.
